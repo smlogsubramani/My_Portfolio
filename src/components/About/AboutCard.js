@@ -10,8 +10,7 @@ function AboutCard() {
           <p style={{ textAlign: "justify" }}>
             Hi Everyone, I am <span className="purple">Logasubramani</span>
             from <span className="purple"> chennai, India.</span>
-            <br />I am a junior pursuing BE in computer science and enginnering in panimalar enginering college
-            Mesra.
+            <br />I am a junior pursuing BE in computer science and enginnering in panimalar enginering college.
             <br />
             <br />
             Apart from coding, some other activities that I love to do!
